@@ -1,0 +1,24 @@
+{
+  "name": "express-js-",
+  "version": "1.0.0",
+  "description": "Express-js learning stage",
+  "main": "index.js",
+  "scripts": {
+    "start":"nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MdShimulMahmud/Express-js-.git"
+  },
+  "author": "Shimul Mahmud",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MdShimulMahmud/Express-js-/issues"
+  },
+  "homepage": "https://github.com/MdShimulMahmud/Express-js-#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "nodemon": "^2.0.20"
+  }
+}
